@@ -2,5 +2,5 @@ package gitdemo;
 
 public class C {
 
-	int c = 1;
+	int c = 2;
 }
